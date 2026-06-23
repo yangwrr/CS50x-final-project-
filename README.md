@@ -99,4 +99,4 @@ Some possible improvements for the project include:
 ## Acknowledgments
 
 This project was completed as part of the CS50x course.
-ChatGPT was used as a supplementary tool for debugging assistance, explanations, and improving the structure of the project.
+
